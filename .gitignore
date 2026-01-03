@@ -7,7 +7,7 @@ venv/
 # Python Cache
 # ------------------------
 __pycache__/
-*.pyc
+.pyc
 
 # ------------------------
 # Data & Outputs
